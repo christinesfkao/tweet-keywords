@@ -1,5 +1,5 @@
 # README.md
-This is the README file for tweet-keywords.
+This is the README file for ```tweet-keywords```.
 
 Author: [@christinesfkao](https://github.com/christinesfkao)
 
