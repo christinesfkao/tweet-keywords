@@ -1,5 +1,5 @@
 library(data.table)
-all.files <- list.files(path = "C:/Users/tweet_keywords/tweets",pattern = ".txt")
+all.files <- list.files(path = "C:/Users/tweet_keywords/tweets",pattern = ".csv")
 l <- lapply(all.files, fread, sep=",")
 dt <- rbindlist(l)
 tweets <- as.list(dt$tweet_text) 
