@@ -19,6 +19,7 @@ This R script helps grepping keywords from tweets provided by the [Information O
 ## System requirements
 
 - R version 3.5.1+
+- install.packages("data.table")
 
 ## Directory
 ```
