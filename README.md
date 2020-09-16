@@ -39,5 +39,5 @@ cd tweet-keywords/tweets
 wget -i ../url.txt
 unzip '*.zip'
 
-Rscript ~/grep_keywords.R
+Rscript ../grep_keywords.R
 ``` 
